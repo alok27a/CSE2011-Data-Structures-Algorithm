@@ -1,0 +1,9 @@
+Algorithm for Insertion
+
+Take two stacks S1 and S2.
+Push everything to S1 taking into consideration that S1 has unlimited size.
+Algorithm for Deletion
+
+If both S1 and S2 is empty return -1.
+Push everything to S2 from S1.
+Delete(pop) the top element from S2.

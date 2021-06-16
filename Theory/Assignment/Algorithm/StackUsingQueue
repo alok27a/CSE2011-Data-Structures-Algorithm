@@ -1,0 +1,9 @@
+Push Algorithm
+
+The following are the steps to perform the push operation:
+
+Step 1: Consider two queues, i.e., Q1 and Q2, and the element to be inserted in the queue is x.
+
+Step 2: element= Q1.enqueue(x);
+
+Step 3: return element;
